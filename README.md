@@ -1,7 +1,9 @@
 # PEP_ConsolasVendidasEnGeneracion
 Es un proyecto para la acreditacion del curos de Platzi de "Curso de Python: Comprehensions, Funciones y Manejo de Errores", con el csv mostrare los datos de las
 consolas mas vendidas en cada generacion en forma de graficas en barras
-[LINK DEL CSV Video Game Console Generations]: https://www.kaggle.com/datasets/melissamonfared/video-game-console-generations
+
+[LINK DEL CSV Video Game Console Generations]:https://www.kaggle.com/datasets/melissamonfared/video-game-console-generations
+
 GENERACIONES:
 - First
 - Second
